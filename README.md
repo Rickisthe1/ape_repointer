@@ -1,6 +1,8 @@
 # ape_repointer by gabbls_
 Repoints all address in common with US to JP.
 
+REQUIRES eb-listing!!!
+
 Usage:
 Put your desired ccs files in the same folder as ape_repointer.py
 
