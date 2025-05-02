@@ -1,5 +1,5 @@
 # ape_repointer by gabbls_
-Repoints all address in common with US to JP.
+Repoints all addresses in common with US to JP.
 
 REQUIRES eb-listing!!!
 
